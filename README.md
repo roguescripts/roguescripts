@@ -2,25 +2,22 @@
 ### Building high quality FiveM resources for all kinds of communities.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=roguescripts&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=roguescripts&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roguescripts&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roguescripts&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roguescripts&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=roguescripts&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=roguescripts&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=roguescripts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roguescripts&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
 
 ## About Rogue Scripts
 
-We’re an Australian dev team focused on clean code, solid UX, and reliable long term support.  
+We’re an Australian dev team focused on clean code, solid UX, and reliable long term support.
 
 ## Tech
 
