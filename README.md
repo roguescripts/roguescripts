@@ -13,7 +13,8 @@
 
 ## About Rogue Scripts
 
-We’re an Australian dev team focused on clean code, solid UX, and reliable long term support.
+We’re an Australian dev team focused on clean code, solid UX, and reliable long term support.  
+After owning and developing one of the biggest servers in Australia, we know what the development community lacks and needs and we’re here to fix that.
 
 ## Tech
 
