@@ -1,7 +1,8 @@
 # Rogue Scripts 🇦🇺
 ### Building high quality FiveM resources for all kinds of communities.
 
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=6366f1&label=Joined%20GitHub&query=$.created_at&url=https://api.github.com/users/roguescripts" alt="Joined GitHub" />
   <img src="https://komarev.com/ghpvc/?username=roguescripts&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
 </p>
 
@@ -9,11 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=roguescripts&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=roguescripts&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roguescripts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 
 ## About Rogue Scripts
 
